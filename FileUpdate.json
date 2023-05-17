@@ -1,16 +1,16 @@
 {
-         "name": "SG-this is free1",
-         "url": "https://raw.githubusercontent.com/sansoe2022/test-online-update/main/free1.ovpn"
+         "name": "JP-this is free1",
+         "url": "https://raw.githubusercontent.com/changyiii/VictorVpn/main/jp-free-02.udp.ovpn"
       },
 
 {
-         "name": "SG-this is free2",
-         "url": "https://raw.githubusercontent.com/sansoe2022/test-online-update/main/free2.ovpn"
+         "name": "NL-this is free2",
+         "url": "https://raw.githubusercontent.com/changyiii/VictorVpn/main/nl-free-01.udp.ovpn"
       },
 
 {
          "name": "US-this is us",
-         "url": "https://raw.githubusercontent.com/sansoe2022/test-online-update/main/us.ovpn"
+         "url": "https://raw.githubusercontent.com/changyiii/VictorVpn/main/us-free-01.udp.ovpn"
       }
 
 
